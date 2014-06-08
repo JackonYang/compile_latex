@@ -1,0 +1,18 @@
+# Temp files
+*.aux
+*.toc
+*.out
+
+*.bak
+*.bbl
+*.blg
+
+# Log
+*.log
+
+# Target files
+*.dvi
+*.pdf
+
+# Editor
+*.swp
